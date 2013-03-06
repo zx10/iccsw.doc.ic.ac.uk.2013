@@ -7,9 +7,9 @@ html(lang='en')
       title
         block title
           = locals.name
-      link(rel='stylesheet', href=locals.root+'/css/bootstrap.min.css')
-      link(rel='stylesheet', href=locals.root+'/css/bootstrap-responsive.min.css')
-      link(rel='stylesheet', href=locals.root+'/css/app.css')
+      link(rel='stylesheet', href='/2013/css/bootstrap.min.css')
+      link(rel='stylesheet', href='/2013/css/bootstrap-responsive.min.css')
+      link(rel='stylesheet', href='/2013/css/app.css')
   body
     nav.navbar.navbar-fixed-top.navbar-inverse
       .navbar-inner
@@ -19,17 +19,19 @@ html(lang='en')
             span.icon-bar
             span.icon-bar
             span.icon-bar
-          a.brand(href=locals.url, title=locals.name, rel='home')= locals.name
+          a.brand(href='/2013/', title=locals.name, rel='home')= locals.name
           .nav-collapse.collapse
             ul.nav
-              +menu('Home', locals.root+'/')
-              +menu('Call for Papers', locals.root+'/cfp.html')
-              +menu('Location', locals.root+'/location.html')
+              +menu('Call for Papers', '/2013/cfp.html')
+              +menu('Programme', '/2013/programme.html')
+              +menu('Keynotes', '/2013/keynotes.html')
+              +menu('Location', '/2013/location.html')
+              +menu('Organisation', '/2013/organisation.html')
     .container
       header.subhead
         block subhead
           a(href=locals.url)
-            img(alt=locals.name, src=locals.root+'/img/logo.png')
+            img(alt=locals.name, src='/2013/img/logo.jpg')
       section.content
         block content
     footer.footer
@@ -38,9 +40,9 @@ html(lang='en')
           p Designed by 
             a(href='http://www.doc.ic.ac.uk/~ph1310', title='Petr Hosek') Petr Hosek
             , 
-            a(href='http://www.imperial.ac.uk/', title='Imperial College London') Imperial College London
+            a(href='http://www3.imperial.ac.uk/', title='Imperial College London') Imperial College London
     script(src='http://code.jquery.com/jquery-latest.js')
-    script(src=locals.root+'/js/bootstrap.min.js')
-    script(src=locals.root+'/js/app.js')
+    script(src='/2013/js/bootstrap.min.js')
+    script(src='/2013/js/app.js')
     include analytics
-    +analytics('UA-22691589-3')
+    +analytics('UA-22691589-4')

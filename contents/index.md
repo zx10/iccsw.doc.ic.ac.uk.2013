@@ -8,10 +8,9 @@ international forum for doctoral students to discuss a range of topics
 that are current in computer science research. The workshop welcomes all
 research students in the field of computer science. 
 
-Following the success of the first two editions
-([2012](http://iccsw.doc.ic.ac.uk/2012),
-[2011](http://iccsw.doc.ic.ac.uk/2011)) of the workshop,
-the third workshop provides
+Following the success of the first two editions of the
+workshop&mdash;[ICCSW'12](http://iccsw.doc.ic.ac.uk/2012) and
+[ICCSW'11](http://iccsw.doc.ic.ac.uk/2011)&mdash;the third workshop provides
 an excellent opportunity to share provocative ideas, interesting
 preliminary work, or a cool research directions that may change the
 world. 

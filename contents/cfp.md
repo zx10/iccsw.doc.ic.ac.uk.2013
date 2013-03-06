@@ -3,11 +3,7 @@ title: Call for Papers
 template: page.jade
 ---
 
-## 2013 Imperial College Computing Student Workshop
-
-### 26-27 September, 2013, London, United Kingdom
-
-The 3rd Imperial College Computing Student Workshop (ICCSW) aims to
+The third Imperial College Computing Student Workshop (ICCSW) aims to
 provide an international forum for doctoral students in computing. While
 most conferences and workshops in academia solely cater for specific
 research areas, ICCSW encourages doctoral students from all disciplines
@@ -22,13 +18,6 @@ The workshop offers:
 topics in computer science
 * a poster session
 * a tools and demos session
-
-### Important Dates
-
-* Abstracts due: Monday, July 1, 2013, 11:59 p.m. BST
-* Paper submission due: Monday, July 8, 2013, 11:59 p.m. BST
-* Acceptance notification: Friday, August 2, 2013
-* Final papers due: Friday, August 23, 2013, 11:59 p.m. BST
 
 ### Organisation
 
@@ -69,3 +58,10 @@ will have the entirety of the evening reception to discuss their work,
 get exposure and receive feedback from attendees. All students who have
 a paper accepted for the workshop are welcome, but not required, to
 submit the poster.
+
+### Important Dates
+
+* Abstracts due: **Monday, July 1, 2013, 11:59 p.m. BST**
+* Paper submission due: **Monday, July 8, 2013, 11:59 p.m. BST**
+* Acceptance notification: **Friday, August 2, 2013**
+* Final papers due: **Friday, August 23, 2013, 11:59 p.m. BST**
