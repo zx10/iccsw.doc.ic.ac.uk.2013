@@ -29,7 +29,7 @@ The workshop aims to:
 The workshop provides an excellent ground for discussing similarities
 and differences in graduate studies at various institutions around the
 world. All doctoral students are thereby encouraged to submit papers
-covering their ongoing research. The second edition of the workshop will
+covering their ongoing research. The third edition of the workshop will
 span two days and will be held September 26—27, 2013, at the Department
 of Computing at Imperial College London, London, United Kingdom.
 
