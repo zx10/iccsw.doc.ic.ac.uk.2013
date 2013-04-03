@@ -26,6 +26,8 @@ template: page.jade
   College London
 * [Calin-Rares Turliuc](http://www.doc.ic.ac.uk/~ct1810/), Imperial
   College London
+* [Zhongliu Xie](http://www.doc.ic.ac.uk/~zx10/), Imperial
+  College London
 
 ## Ambassadors
 
