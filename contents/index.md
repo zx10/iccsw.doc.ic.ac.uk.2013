@@ -33,7 +33,7 @@ covering their ongoing research. The third edition of the workshop will
 span two days and will be held September 26—27, 2013, at the Department
 of Computing at Imperial College London, London, United Kingdom.
 
-## Platium Sponsors
+## Platinum Sponsors
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
   <img src="img/google.png" style="height: 40px;
