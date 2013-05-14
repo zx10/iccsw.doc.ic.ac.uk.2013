@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Location
 template: page.jade
 ---
 
