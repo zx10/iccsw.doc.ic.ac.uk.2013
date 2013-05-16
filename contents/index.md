@@ -41,6 +41,14 @@ margin: 1em;" alt="Google">
 </a>
 </div>
 
+## Bronze Sponsors
+<div class="row" style="text-align: center;">
+<a href="http://www.hp.com/">
+  <img src="img/hp.png" style="height: 40px; margin:
+1em;" alt="HP">
+</a>
+</div>
+
 ## Supporters
 <div class="row" style="text-align: center;">
 <a href="http://www.imperial.ac.uk/">
