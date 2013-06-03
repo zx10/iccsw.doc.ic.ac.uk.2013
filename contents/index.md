@@ -43,9 +43,11 @@ margin: 1em;" alt="Google">
 
 ## Bronze Sponsors
 <div class="row" style="text-align: center;">
+<a href="http://www.arm.com/">
+  <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="ARM"/>
+</a>
 <a href="http://www.hp.com/">
-  <img src="img/hp.png" style="height: 40px; margin:
-1em;" alt="HP">
+  <img src="img/hp.png" style="height: 40px; margin: 1em;" alt="HP"/>
 </a>
 </div>
 
@@ -53,10 +55,10 @@ margin: 1em;" alt="Google">
 <div class="row" style="text-align: center;">
 <a href="http://www.imperial.ac.uk/">
   <img src="img/icl.png" style="height: 40px; margin:
-1em;" alt="Imperial College London">
+1em;" alt="Imperial College London"/>
 </a>
 <a href="http://www.dagstuhl.de/en/publications/oasics">
   <img src="img/oasics.png"  style="height: 40px;
-margin: 1em;" alt="OASIcs">
+margin: 1em;" alt="OASIcs"/>
 </a>
 </div>
