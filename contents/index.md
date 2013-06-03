@@ -46,7 +46,7 @@ margin: 1em;" alt="Google">
 <a href="http://www.arm.com/">
   <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="ARM"/>
 </a>
-<a href="http://www.hp.com/">
+<a href="http://www.hp.com/careers">
   <img src="img/hp.png" style="height: 40px; margin: 1em;" alt="HP"/>
 </a>
 </div>
