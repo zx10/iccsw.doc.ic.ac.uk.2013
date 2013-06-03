@@ -19,31 +19,65 @@ topics in computer science
 * a poster session
 * a tools and demos session
 
-### Organisation
+#### Technical Track
 
-The local steering committee will consist of research students from the
-department, who will be responsible for the organisation of the
-workshop. Research students from outside Imperial College are invited to
-become members of the organising committee as ambassadors of the
-workshop in their respective university to promote and coordinate
-students wishing to participate in the workshop.
+This track is a general computing track for both theoretical and
+applied approaches. Areas of interest for the technical track cover
+all fields of research in computer science.
+
+#### Tools and Demos Track
+
+Submissions to the tools and demo track are to describe novel
+tools implementing interesting theory. Papers documenting tools
+with real-world applicability are particularly encouraged to submit.
+It is expected that any tool paper will have an accompanying demo.
+
+#### Poster Session
+
+The poster session provides an excellent opportunity to share and
+discuss new ideas and interesting preliminary work. Posters will
+be displayed throughout the entire workshop giving presenters a
+unique opportunity to discuss their work, get exposure and receive
+feedback from attendees. All students who have a paper accepted
+for the workshop are welcome, but not required, to submit the poster.
+
+### Important Dates
+
+* Abstracts due: **Monday, July 1, 2013, 11:59 p.m. BST**
+* Paper submission due: **Monday, July 8, 2013, 11:59 p.m. BST**
+* Acceptance notification: **Friday, August 2, 2013**
+* Final papers due: **Friday, August 23, 2013, 11:59 p.m. BST**
 
 ### Submission
 
-Preliminary size restrictions
-
-* 8 pages for papers [OASIcs
-format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)
-* 6 pages for tools and demos [OASIcs
-format](http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz)
-* A1 size for posters
-
-Details for submission methods will be announced in our website.
-For each submitted papers, the authors will be required to review
-approximately two or three papers, not necessarily related to the topic
+Submissions for the technical track, and tools and demos track
+are limited to 8 and 6 pages respectively in [OASIcs format]. For
+each submitted paper, the authors will be required to review at
+least two other submissions, not necessarily related to the topic
 of their immediate expertise. To ensure reviews are objective and
-meet academic standards the steering commiteee will look at all reviews
-prior to their release.
+meet academic standards the steering committee will look at all
+reviews prior to their release.
+
+To submit a poster, please submit a draft of your poster, in PDF
+(A1 size), together with an extended abstract (up to 2-page) by
+Friday, August 23, 2013, 11:59 p.m. BST. Poster
+submissions must include the authors’ names, affiliations, and contact
+information. Authors are not required to print their own posters;
+the workshop committee will handle this and also cover the cost
+of the print.
+
+Papers that do not comply with the submission requirements,
+including length and format, may be rejected without review. Submission of
+papers and posters should be done via EasyChair at
+http://www.easychair.org/conferences/?conf=iccsw2013.
+
+All accepted technical and tool papers of ICCSW’13 will be published
+in the [OpenAccess Series in Informatics
+(OASIcs)](http://www.dagstuhl.de/en/publications/oasics) published
+by Schloss Dagstuhl. It is expected that one of the paper authors
+will attend the conference and present their work. Electronic copies of the
+proceedings will be made available for all participants at
+the time of the workshop.
 
 ### Registration
 
@@ -59,9 +93,16 @@ get exposure and receive feedback from attendees. All students who have
 a paper accepted for the workshop are welcome, but not required, to
 submit the poster.
 
-### Important Dates
+### Organisation
 
-* Abstracts due: **Monday, July 1, 2013, 11:59 p.m. BST**
-* Paper submission due: **Monday, July 8, 2013, 11:59 p.m. BST**
-* Acceptance notification: **Friday, August 2, 2013**
-* Final papers due: **Friday, August 23, 2013, 11:59 p.m. BST**
+The local steering committee will consist of research students from the
+department, who will be responsible for the organisation of the
+workshop. Research students from outside Imperial College are invited to
+become members of the organising committee as ambassadors of the
+workshop in their respective university to promote and coordinate
+students wishing to participate in the workshop.
+The current list of organising committee members can be found in the
+[Organisation](/2013/organisation.html) page.
+
+
+[OASIcs format]: http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz
