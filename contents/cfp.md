@@ -43,10 +43,10 @@ for the workshop are welcome, but not required, to submit the poster.
 
 ### Important Dates
 
-* Abstracts due: **Monday, July 1, 2013, 11:59 p.m. BST**
-* Paper submission due: **Monday, July 8, 2013, 11:59 p.m. BST**
+* Abstracts due: [**Monday, July 1, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130701T2359&p1=136)
+* Paper submission due: [**Monday, July 8, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130708T2359&p1=136)
 * Acceptance notification: **Friday, August 2, 2013**
-* Final papers due: **Friday, August 23, 2013, 11:59 p.m. BST**
+* Final papers due: [**Friday, August 23, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130823T2359&p1=136)
 
 ### Submission
 
@@ -69,7 +69,7 @@ of the print.
 Papers that do not comply with the submission requirements,
 including length and format, may be rejected without review. Submission of
 papers and posters should be done via EasyChair at
-http://www.easychair.org/conferences/?conf=iccsw2013.
+<http://www.easychair.org/conferences/?conf=iccsw2013>.
 
 All accepted technical and tool papers of ICCSW’13 will be published
 in the [OpenAccess Series in Informatics
@@ -106,3 +106,4 @@ The current list of organising committee members can be found in the
 
 
 [OASIcs format]: http://drops.dagstuhl.de/styles/oasics/oasics-authors.tgz
+
