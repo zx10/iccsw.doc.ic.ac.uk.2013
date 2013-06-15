@@ -32,6 +32,7 @@ template: page.jade
 ## Ambassadors
 
 * Theofanis Apostolopoulos, King's College London, UK
+* Khulood Alyahya, University of Birmingham, UK
 * Reza Asadi, Northeastern University, US
 * Matthew Forshaw, Newcastle University, UK
 * Sarah Gaggl, TU Dresden, Germany
