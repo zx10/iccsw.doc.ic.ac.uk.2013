@@ -27,11 +27,12 @@ html(lang='en')
               +menu('Keynotes', '/2013/keynotes.html')
               +menu('Location', '/2013/location.html')
               +menu('Organisation', '/2013/organisation.html')
+              +menu('FAQ', '/2013/faq.html')
     .container
       header.subhead
+        a(href=locals.url)
+          img(alt=locals.name, src='/2013/img/logo.jpg')
         block subhead
-          a(href=locals.url)
-            img(alt=locals.name, src='/2013/img/logo.jpg')
       section.content
         block content
     footer.footer
