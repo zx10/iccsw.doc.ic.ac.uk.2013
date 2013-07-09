@@ -19,7 +19,8 @@ html(lang='en')
             span.icon-bar
             span.icon-bar
             span.icon-bar
-          a.brand(href='/2013/', title=locals.name, rel='home')= locals.name
+          a.brand(href='/2013/', title=locals.name, rel='home')
+            img(alt=locals.name, src='/2013/img/iccsw-logo-cs13.png')
           .nav-collapse.collapse
             ul.nav
               +menu('Call for Papers', '/2013/cfp.html')
