@@ -43,10 +43,10 @@ for the workshop are welcome, but not required, to submit the poster.
 
 ### Important Dates
 
-* Abstracts due: [**Monday, July 1, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130701T2359&p1=136)
-* Paper submission due: [**Monday, July 8, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130708T2359&p1=136)
-* Acceptance notification: **Friday, August 2, 2013**
-* Final papers due: [**Friday, August 23, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130823T2359&p1=136)
+* Abstracts due: [**Monday, July 15, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130715T2359&p1=136) (extended)
+* Paper submission due: [**Monday, July 22, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130722T2359&p1=136) (extended)
+* Acceptance notification: **Friday, August 16, 2013** (extended)
+* Final papers due: [**Friday, August 30, 2013, 11:59 p.m. BST**](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20130830T2359&p1=136) (extended)
 
 ### Submission
 
