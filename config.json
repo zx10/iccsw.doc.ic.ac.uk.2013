@@ -4,5 +4,17 @@
     "name": "ICCSW'13",
     "owner": "Imperial College Computing Student Workshop, Imperial College London",
     "description": "2013 Imperial College Computing Student Workshop"
+  },
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
   }
 }
